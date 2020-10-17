@@ -4,7 +4,7 @@ function generateMarkdown(data) {
   
 
 # ${data.title}\n
-![readmeGen](https://img.shields.io/github/languages/top/arewinkl/readmeGen?color=green&label=JavaScript)
+![homeworkSeven](https://img.shields.io/github/languages/top/arewinkl/homeworkSeven?color=green&label=JavaScript)
 
 ---
 
